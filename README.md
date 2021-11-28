@@ -1,3 +1,3 @@
-# Library Maagement System
+# Library Mangement System
  --> Using Nodejs, Mongodb, Expressjs
  
